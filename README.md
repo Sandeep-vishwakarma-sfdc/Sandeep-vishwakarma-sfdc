@@ -3,7 +3,6 @@
 ## I'm a Salesforce Developer !!
 
 - 🌱 I’m currently learning everything  about Salesforce🤣
-- ⚡ Fun fact: I love to Code
 
 ### Connect with me:
 
