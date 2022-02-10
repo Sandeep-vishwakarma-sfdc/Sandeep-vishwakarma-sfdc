@@ -2,7 +2,7 @@
 
 ## I'm a Salesforce Developer !!
 
-- 🌱 I’m currently learning everything  about Salesforce🤣
+- 🌱 I’m currently learning everything  about Salesforce
 
 ### Connect with me:
 
