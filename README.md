@@ -2,7 +2,8 @@
 
 ## I'm a Salesforce Developer !!
 
-- 🌱 I’m currently learning everything  about Salesforce
+- 🌱 I’m currently learning everything  about Salesforce.
+- 🕺 In a journey to become Salesforce Technical Architect.
 
 ### Connect with me:
 
